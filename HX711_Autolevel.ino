@@ -1,6 +1,6 @@
 
 #include "HX711.h"
-
+//lib https://github.com/bogde/HX711
 // HX711.DOUT	- pin #A1
 // HX711.PD_SCK	- pin #A0
 //#define DEBUG //Выводить в порт текущие показания
